@@ -160,3 +160,7 @@ button {
 .number:active {
   background-color: var(--grey-200);
 }
+
+[data-state="selected"] {
+  background: var(--grey-200);
+}
